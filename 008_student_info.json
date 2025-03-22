@@ -1,0 +1,20 @@
+{
+
+ "name": "Saviour",
+ "age": 32,
+ "class": "level3",
+ "subject": ["maths","english","biochemistry"],
+ "contact": { "phone":"08163881255","email":"saviourisidore02@gmail.com" },
+
+ "name": "Edidiong",
+ "age": 30,
+ "class": "level 1",
+ "subject": ["physics","maths","further maths"],
+ "contact": {"phone":"08058723891","email":"docsave@gmail.com" },
+
+ "name": "Emediong",
+ "age": 28,
+ "class": "ss3",
+ "subject": ["biology","english","chemistry"],
+ "contact": {"phone":"08036781933","email":"intman07:12@gmail.com" },
+}
