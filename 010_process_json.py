@@ -19,3 +19,19 @@ car.update({"country":"Japan"})
 del car["color"]
 
 car.pop("model")
+
+with open("011_new_data.json","w") as new_data:
+    json.dump(car,new_data)
+print(len(car))
+
+print(car.keys())
+
+print(car.values())
+
+print(car.items())
+
+for a in car:
+    print(a)
+
+for a in car.items():
+    print(a)
