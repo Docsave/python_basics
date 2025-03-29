@@ -17,9 +17,10 @@ user = {
         "last_name": c,
         "email": d,
         "password": e,
+        }
 
-        with open("015_register.json", "w") as my_file:
-        json.dump(user, my_file)
+with open("015_register.json", "w") as my_file:
+    json.dump(user, my_file)
 
-        print(user)
+print(user)
 
